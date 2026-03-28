@@ -1,12 +1,12 @@
-# 📈 Stock Price Prediction using Deep Learning & Machine Learning
+ Stock Price Prediction using Deep Learning & Machine Learning
 
-## 🔍 Overview
+ Overview
 This project focuses on predicting stock prices using a combination of Deep Learning and Machine Learning models. 
 It utilizes historical stock market data along with technical indicators to forecast future price movements.
 
 ---
 
-## 🎯 Objectives
+ Objectives
 - Analyze historical stock price data
 - Generate technical indicators for better feature representation
 - Build multiple predictive models
@@ -14,7 +14,7 @@ It utilizes historical stock market data along with technical indicators to fore
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
@@ -25,7 +25,7 @@ It utilizes historical stock market data along with technical indicators to fore
 
 ---
 
-## 📊 Features
+##  Features
 - Real-time stock data fetching using yFinance
 - Feature engineering using technical indicators
 - Data normalization using MinMaxScaler
@@ -34,17 +34,17 @@ It utilizes historical stock market data along with technical indicators to fore
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 - LSTM (Long Short-Term Memory Neural Network)
 - GRU (Gated Recurrent Unit)
 - CNN (1D Convolutional Neural Network)
 - Random Forest Regressor
 
-👉 The project compares different models to determine the most accurate prediction approach.
+ The project compares different models to determine the most accurate prediction approach.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - Data collected using yFinance API
 - Includes:
   - Open, Close, High, Low prices
@@ -53,7 +53,7 @@ It utilizes historical stock market data along with technical indicators to fore
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open the notebook in Google Colab  
 2. Install required libraries:
